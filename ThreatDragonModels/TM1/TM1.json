@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "TM1",
+    "owner": "Wade"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Blah",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Wade"
+  }
+}
